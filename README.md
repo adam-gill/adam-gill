@@ -2,7 +2,7 @@
 
 **`Prospective Software Engineer (Developer/Lifter/Builder)`**
 
-Write bio here
+I'm currently studying computer science and math at Waynesburg University, and love builind full stack applications in my free time. Since a kid I've always loved to build things, starting with legos, and a few years ago I discovered the realm of software development and coding and fell in love with it. My first taste of coding was in my intro to Java class in high school, and I haven't looked back since. Feel free to check out my most recent coding projects here or on my website <a href="https://adamgill.io">adamgill.io</>. When I'm not studying or coding, you can find me in the weightroom or hanging out with my friends (or both). Cheers!
 
    
 
